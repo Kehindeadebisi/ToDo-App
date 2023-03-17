@@ -22,7 +22,8 @@ img {
 }
 
 .contain img {
-    float: r;
+    float: right;
+    margin-left: 45rem;
 }
 
 .top {
