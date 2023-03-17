@@ -6,7 +6,7 @@ html body {
 }
 
 img {
-    width: 90%
+    width: 100%
 }
 
 .contain {
@@ -23,7 +23,6 @@ img {
 
 .contain img {
     float: right;
-    margin-left: 45rem;
 }
 
 .top {
