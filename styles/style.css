@@ -15,14 +15,14 @@ img {
     padding: 2rem 1rem;
     border-radius: 25px;
     color: white;
-    width: 80rem;
+    width: 70rem;
     justify-content: space-between;
     align-content: space-between;
     height: fit-content;
 }
 
 .contain img {
-    margin-left: 15%;
+    float: r;
 }
 
 .top {
