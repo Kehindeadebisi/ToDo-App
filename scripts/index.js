@@ -2,7 +2,7 @@
 
 window.onload = todayDate();
 function todayDate() {
-    let day = ["Sun", "Mon", "Tue", "Wed", "Thur", "Fri", "Sat"]
+    let day = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
     let month = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
     let now = new Date();
     let dateString = day[now.getDay()] + ", " + month[now.getMonth()] + " " + now.getDate();
